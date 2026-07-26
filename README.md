@@ -1,9 +1,9 @@
 # YOLOv9 Panoptic Image Captioning Using KeyToText
 
-![YOLOv9](https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white)
-![KeyToText](https://img.shields.io/badge/Captioning-KeyToText-yellow?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ultralytics%20YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Captioning-KeyToText-yellow?style=flat-square)
+![Static Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <p>
 Automatically caption images by combining YOLOv9 panoptic segmentation with Key2Text to generate general descriptive sentences.
