@@ -1,7 +1,7 @@
 # YOLOv9 Panoptic Image Captioning Using KeyToText
 
-<a href="#" title="YoloV9"><img alt="Python" src="https://img.shields.io/badge/YOLO-V9-purple" height="150" align="center"/></a>
-<a href="#" title="KeyToText"><img alt="Python" src="https://img.shields.io/badge/KeyToText-lightblue" height="150" align="center"/></a>
+![YOLOv9](https://img.shields.io/badge/YOLO-v9-purple)
+![KeyToText](https://img.shields.io/static/v1?label=&message=KeyToText&color=lightblue)
 
 <p>
 Automatically caption images by combining YOLOv9 panoptic segmentation with Key2Text to generate general descriptive sentences.
