@@ -20,5 +20,5 @@ Automatically caption images by combining YOLOv9 panoptic segmentation with Key2
 
 ### Demo Result:
 
-<img width="1512" height="944" alt="Screenshot 2025-08-05 at 2 30 39 PM" src="https://github.com/John-Da/Captioning-Image-Using-Key2Text/blob/main/result.png"/>
+<img width="1512" height="944" alt="Screenshot 2025-08-05 at 2 30 39 PM" src="https://github.com/John-Da/Captioning-Image-Using-Key2Text/blob/main/demo.png"/>
 
